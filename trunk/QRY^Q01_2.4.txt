@@ -1,0 +1,11 @@
+MSH|^~\&|||||20090326142815||ADR^A19||P|2.4|1||AL||||||
+MSA|AA||Patient gevonden|||
+QRD|20090326142414|R|I|Q000|||1|7709183|DEM|||
+PID|||7709183^^^^PI~152548774^^^NLMINBIZA^NNNLD||Woestenberg&&Woestenberg&&^Gitte^H.A.M.^^^^L||19770331|F|||Dussekstraat 23&Dussekstraat&23^^Tilburg^^5011 AG^^M||06-30711578|||||||||||N|||||""|N||||||||
+ROL||UP|PP^Primary Care Provider|0210440101^Blessing^F.M.^^10056|||||01^Huisartsen^VEKTIS||Eikenlaan 4^^Udenhout^^5071 CM|^^^^^013-5111555
+PV1|1|O||||||||||||||||||||||||||||||||||||||||||||||||||
+OBX|1|ST|MRSA||N||||||F||||||||
+IN1|1||B9664|CZ,DeltaLloyd,OHRA,CentraleVer|Postbus 90152^^TILBURG^^5000 LD|||||||20090101|||BV|||||||||||||||||||||410924849|||||||||||||
+IN2|1|||||||||||||||||||||||||||3B||||||||||||||||||||||||||||||||||||||||||||
+
+

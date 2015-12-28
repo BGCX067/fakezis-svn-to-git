@@ -1,0 +1,18 @@
+MSH|^~\&|COMEZ|CS|FertiBase||20070920114649||ADR^A19|1|P|2.2
+
+MSA|AA|1
+
+QRD|200709201146|R|I|QRY-1||||1102386|DEM
+
+PID|||<<patnr>>||Testpatient^""^H^^""^""||19770618|<<gender>>|||Lange Dorpstraatl^30 b^Riel BC^^3034 CJ||06-<<patnr>>|||1|""|||||||N
+
+ZPI||""|""|""^^^^""||TEST0001^Huisartsnaam^""^PW^^""^drs.^^Kerstraat^48^3034 SN^Alph
+
+PV1||O|VDAG^Z02^6||||20022^Arts^""^AT^^""^dr.|||||||||||""|0007168055|||||||||||||||||0|N|||||||200709130800|200709131140
+
+IN1|1||B3311|Zilveren Kruis Achmea Zorgverz. N.V.|Postbus^323^Rotterdam^^3000 AH||010-2446002||||||||P|||||||||||||||||||||123456778
+
+IN2||||||||||||||||||||||||||||3|H
+
+
+

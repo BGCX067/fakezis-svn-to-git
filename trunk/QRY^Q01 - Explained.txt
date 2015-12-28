@@ -1,0 +1,42 @@
+
+
+
+First some lower ASCII control characters
+
+
+Then the message header
+MSH|^~\&|COMEZ|CS|FertiBase||20070920114649||ADR^A19|1|P|2.2
+
+
+Some stuff
+MSA|AA|1
+
+
+The repeating of the query
+QRD|200709201146|R|I|QRY-1||||1102386|DEM
+
+
+Chapter PID
+PID|||<<patnr>>||Kocaman^""^H^^""^""||19770618|<<gender>>|||Crooswyksesngl^30 b^Rotterdam^^3034 CJ||06-18191687C|||1|""|||||||N
+
+
+Chapter ZP
+ZPI||""|""|""^^^^""||A1023229^Eland^""^PW^^""^drs.^^Paradijslaan^48^3034 SN^Rotte
+
+
+
+Chapter PV1
+PV1||O|VDAG^Z02^6||||20022^Alberda^""^AT^^""^dr.|||||||||||""|0007168055|||||||||||||||||0|N|||||||200709130800|200709131140
+
+
+Chapter IN1
+IN1|1||B3311|Zilveren Kruis Achmea Zorgverz. N.V.|Postbus^323^Rotterdam^^3000 AH||010-2446002||||||||P|||||||||||||||||||||155888536
+
+
+Chapter IN2
+IN2||||||||||||||||||||||||||||3|H
+
+
+Some lower ascii to close (usually CR LF CR, osmteimes CR LF  )
+
+

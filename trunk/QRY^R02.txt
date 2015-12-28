@@ -1,0 +1,368 @@
+MSH|^~\&|FQR|FQR|FertiBase||20070612141127||ORF^R04|60793006535|P|2.4||
+
+MSA|AA|1||
+
+QRD|200706121411|R|I|QRY-1|||99^RD|3050454|RES
+
+QRF|CCS|||||COL|FIN|ALL|^^^198001010000
+
+PID|1||<<patnr>>^^^^PI||Ozcan&""&Ozcan&""&""^T^""^^^^L||19680702|M
+
+OBR|1||20050613136001^Labosys||||200506130903||||||""|||20022^A.Th. Alberda ||||200506130903||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||1.6|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||17.6|10\S\6/ml| - 13|H|||F
+
+OBX|3|ST|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||6.3|10\S\6/ml| - 13|""|||F
+
+OBX|4|FT|809^Concentratie na opw^L^CONNXSM^CONNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|5|FT|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|6|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\viscositeit verhoogd.|""|""|""|||F
+
+OBR|1||20061002400598^Labosys||||200610021253||||||""|||20250^L.H.M. de Vleeschouwer ||||200610021253||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||2.9|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||<0.5|10\S\6/ml| - 13|""|||F
+
+OBX|3|ST|810^Concentratie voor opw^L^CONVXSM^CONVXSM||30.4|10\S\6/ml|""|""|||F
+
+OBX|4|ST|811^Beweeglijkheid voor opw.^L^BEWVXSM^BEWVXSM||11.8|10\S\6/ml|""|""|||F
+
+OBX|5|FT|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||\.br\Niet van toepassing|10\S\6/ml| - 13|""|||F
+
+OBX|6|ST|809^Concentratie na opw^L^CONNXSM^CONNXSM||5.8|10\S\6/ml|""|""|||F
+
+OBX|7|ST|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||4.2|10\S\6/ml|""|""|||F
+
+OBX|8|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\Voor opwerken semen visceus; Voor opwerken enkele rondcellen|""|""|""|||F
+
+OBR|1||20050613136001^Labosys||||200506130903||||||""|||20022^A.Th. Alberda ||||200506130903||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||1.6|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||17.6|10\S\6/ml| - 13|H|||F
+
+OBX|3|ST|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||6.3|10\S\6/ml| - 13|""|||F
+
+OBX|4|FT|809^Concentratie na opw^L^CONNXSM^CONNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|5|FT|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|6|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\viscositeit verhoogd.|""|""|""|||F
+
+OBR|1||20061002400598^Labosys||||200610021253||||||""|||20250^L.H.M. de Vleeschouwer ||||200610021253||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||2.9|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||<0.5|10\S\6/ml| - 13|""|||F
+
+OBX|3|ST|810^Concentratie voor opw^L^CONVXSM^CONVXSM||30.4|10\S\6/ml|""|""|||F
+
+OBX|4|ST|811^Beweeglijkheid voor opw.^L^BEWVXSM^BEWVXSM||11.8|10\S\6/ml|""|""|||F
+
+OBX|5|FT|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||\.br\Niet van toepassing|10\S\6/ml| - 13|""|||F
+
+OBX|6|ST|809^Concentratie na opw^L^CONNXSM^CONNXSM||5.8|10\S\6/ml|""|""|||F
+
+OBX|7|ST|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||4.2|10\S\6/ml|""|""|||F
+
+OBX|8|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\Voor opwerken semen visceus; Voor opwerken enkele rondcellen|""|""|""|||F
+
+OBR|1||20050613136001^Labosys||||200506130903||||||""|||20022^A.Th. Alberda ||||200506130903||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||1.6|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||17.6|10\S\6/ml| - 13|H|||F
+
+OBX|3|ST|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||6.3|10\S\6/ml| - 13|""|||F
+
+OBX|4|FT|809^Concentratie na opw^L^CONNXSM^CONNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|5|FT|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|6|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\viscositeit verhoogd.|""|""|""|||F
+
+OBR|1||20061002400598^Labosys||||200610021253||||||""|||20250^L.H.M. de Vleeschouwer ||||200610021253||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||2.9|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||<0.5|10\S\6/ml| - 13|""|||F
+
+OBX|3|ST|810^Concentratie voor opw^L^CONVXSM^CONVXSM||30.4|10\S\6/ml|""|""|||F
+
+OBX|4|ST|811^Beweeglijkheid voor opw.^L^BEWVXSM^BEWVXSM||11.8|10\S\6/ml|""|""|||F
+
+OBX|5|FT|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||\.br\Niet van toepassing|10\S\6/ml| - 13|""|||F
+
+OBX|6|ST|809^Concentratie na opw^L^CONNXSM^CONNXSM||5.8|10\S\6/ml|""|""|||F
+
+OBX|7|ST|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||4.2|10\S\6/ml|""|""|||F
+
+OBX|8|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\Voor opwerken semen visceus; Voor opwerken enkele rondcellen|""|""|""|||F
+
+OBR|1||20050613136001^Labosys||||200506130903||||||""|||20022^A.Th. Alberda ||||200506130903||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||1.6|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||17.6|10\S\6/ml| - 13|H|||F
+
+OBX|3|ST|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||6.3|10\S\6/ml| - 13|""|||F
+
+OBX|4|FT|809^Concentratie na opw^L^CONNXSM^CONNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|5|FT|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|6|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\viscositeit verhoogd.|""|""|""|||F
+
+OBR|1||20061002400598^Labosys||||200610021253||||||""|||20250^L.H.M. de Vleeschouwer ||||200610021253||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||2.9|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||<0.5|10\S\6/ml| - 13|""|||F
+
+OBX|3|ST|810^Concentratie voor opw^L^CONVXSM^CONVXSM||30.4|10\S\6/ml|""|""|||F
+
+OBX|4|ST|811^Beweeglijkheid voor opw.^L^BEWVXSM^BEWVXSM||11.8|10\S\6/ml|""|""|||F
+
+OBX|5|FT|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||\.br\Niet van toepassing|10\S\6/ml| - 13|""|||F
+
+OBX|6|ST|809^Concentratie na opw^L^CONNXSM^CONNXSM||5.8|10\S\6/ml|""|""|||F
+
+OBX|7|ST|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||4.2|10\S\6/ml|""|""|||F
+
+OBX|8|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\Voor opwerken semen visceus; Voor opwerken enkele rondcellen|""|""|""|||F
+
+OBR|1||20050613136001^Labosys||||200506130903||||||""|||20022^A.Th. Alberda ||||200506130903||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||1.6|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||17.6|10\S\6/ml| - 13|H|||F
+
+OBX|3|ST|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||6.3|10\S\6/ml| - 13|""|||F
+
+OBX|4|FT|809^Concentratie na opw^L^CONNXSM^CONNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|5|FT|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|6|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\viscositeit verhoogd.|""|""|""|||F
+
+OBR|1||20061002400598^Labosys||||200610021253||||||""|||20250^L.H.M. de Vleeschouwer ||||200610021253||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||2.9|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||<0.5|10\S\6/ml| - 13|""|||F
+
+OBX|3|ST|810^Concentratie voor opw^L^CONVXSM^CONVXSM||30.4|10\S\6/ml|""|""|||F
+
+OBX|4|ST|811^Beweeglijkheid voor opw.^L^BEWVXSM^BEWVXSM||11.8|10\S\6/ml|""|""|||F
+
+OBX|5|FT|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||\.br\Niet van toepassing|10\S\6/ml| - 13|""|||F
+
+OBX|6|ST|809^Concentratie na opw^L^CONNXSM^CONNXSM||5.8|10\S\6/ml|""|""|||F
+
+OBX|7|ST|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||4.2|10\S\6/ml|""|""|||F
+
+OBX|8|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\Voor opwerken semen visceus; Voor opwerken enkele rondcellen|""|""|""|||F
+
+OBR|1||20050613136001^Labosys||||200506130903||||||""|||20022^A.Th. Alberda ||||200506130903||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||1.6|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||17.6|10\S\6/ml| - 13|H|||F
+
+OBX|3|ST|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||6.3|10\S\6/ml| - 13|""|||F
+
+OBX|4|FT|809^Concentratie na opw^L^CONNXSM^CONNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|5|FT|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|6|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\viscositeit verhoogd.|""|""|""|||F
+
+OBR|1||20061002400598^Labosys||||200610021253||||||""|||20250^L.H.M. de Vleeschouwer ||||200610021253||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||2.9|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||<0.5|10\S\6/ml| - 13|""|||F
+
+OBX|3|ST|810^Concentratie voor opw^L^CONVXSM^CONVXSM||30.4|10\S\6/ml|""|""|||F
+
+OBX|4|ST|811^Beweeglijkheid voor opw.^L^BEWVXSM^BEWVXSM||11.8|10\S\6/ml|""|""|||F
+
+OBX|5|FT|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||\.br\Niet van toepassing|10\S\6/ml| - 13|""|||F
+
+OBX|6|ST|809^Concentratie na opw^L^CONNXSM^CONNXSM||5.8|10\S\6/ml|""|""|||F
+
+OBX|7|ST|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||4.2|10\S\6/ml|""|""|||F
+
+OBX|8|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\Voor opwerken semen visceus; Voor opwerken enkele rondcellen|""|""|""|||F
+
+OBR|1||20050613136001^Labosys||||200506130903||||||""|||20022^A.Th. Alberda ||||200506130903||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||1.6|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||17.6|10\S\6/ml| - 13|H|||F
+
+OBX|3|ST|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||6.3|10\S\6/ml| - 13|""|||F
+
+OBX|4|FT|809^Concentratie na opw^L^CONNXSM^CONNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|5|FT|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|6|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\viscositeit verhoogd.|""|""|""|||F
+
+OBR|1||20061002400598^Labosys||||200610021253||||||""|||20250^L.H.M. de Vleeschouwer ||||200610021253||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||2.9|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||<0.5|10\S\6/ml| - 13|""|||F
+
+OBX|3|ST|810^Concentratie voor opw^L^CONVXSM^CONVXSM||30.4|10\S\6/ml|""|""|||F
+
+OBX|4|ST|811^Beweeglijkheid voor opw.^L^BEWVXSM^BEWVXSM||11.8|10\S\6/ml|""|""|||F
+
+OBX|5|FT|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||\.br\Niet van toepassing|10\S\6/ml| - 13|""|||F
+
+OBX|6|ST|809^Concentratie na opw^L^CONNXSM^CONNXSM||5.8|10\S\6/ml|""|""|||F
+
+OBX|7|ST|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||4.2|10\S\6/ml|""|""|||F
+
+OBX|8|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\Voor opwerken semen visceus; Voor opwerken enkele rondcellen|""|""|""|||F
+
+OBR|1||20050613136001^Labosys||||200506130903||||||""|||20022^A.Th. Alberda ||||200506130903||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||1.6|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||17.6|10\S\6/ml| - 13|H|||F
+
+OBX|3|ST|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||6.3|10\S\6/ml| - 13|""|||F
+
+OBX|4|FT|809^Concentratie na opw^L^CONNXSM^CONNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|5|FT|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|6|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\viscositeit verhoogd.|""|""|""|||F
+
+OBR|1||20061002400598^Labosys||||200610021253||||||""|||20250^L.H.M. de Vleeschouwer ||||200610021253||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||2.9|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||<0.5|10\S\6/ml| - 13|""|||F
+
+OBX|3|ST|810^Concentratie voor opw^L^CONVXSM^CONVXSM||30.4|10\S\6/ml|""|""|||F
+
+OBX|4|ST|811^Beweeglijkheid voor opw.^L^BEWVXSM^BEWVXSM||11.8|10\S\6/ml|""|""|||F
+
+OBX|5|FT|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||\.br\Niet van toepassing|10\S\6/ml| - 13|""|||F
+
+OBX|6|ST|809^Concentratie na opw^L^CONNXSM^CONNXSM||5.8|10\S\6/ml|""|""|||F
+
+OBX|7|ST|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||4.2|10\S\6/ml|""|""|||F
+
+OBX|8|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\Voor opwerken semen visceus; Voor opwerken enkele rondcellen|""|""|""|||F
+
+OBR|1||20050613136001^Labosys||||200506130903||||||""|||20022^A.Th. Alberda ||||200506130903||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||1.6|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||17.6|10\S\6/ml| - 13|H|||F
+
+OBX|3|ST|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||6.3|10\S\6/ml| - 13|""|||F
+
+OBX|4|FT|809^Concentratie na opw^L^CONNXSM^CONNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|5|FT|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|6|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\viscositeit verhoogd.|""|""|""|||F
+
+OBR|1||20061002400598^Labosys||||200610021253||||||""|||20250^L.H.M. de Vleeschouwer ||||200610021253||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||2.9|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||<0.5|10\S\6/ml| - 13|""|||F
+
+OBX|3|ST|810^Concentratie voor opw^L^CONVXSM^CONVXSM||30.4|10\S\6/ml|""|""|||F
+
+OBX|4|ST|811^Beweeglijkheid voor opw.^L^BEWVXSM^BEWVXSM||11.8|10\S\6/ml|""|""|||F
+
+OBX|5|FT|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||\.br\Niet van toepassing|10\S\6/ml| - 13|""|||F
+
+OBX|6|ST|809^Concentratie na opw^L^CONNXSM^CONNXSM||5.8|10\S\6/ml|""|""|||F
+
+OBX|7|ST|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||4.2|10\S\6/ml|""|""|||F
+
+OBX|8|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\Voor opwerken semen visceus; Voor opwerken enkele rondcellen|""|""|""|||F
+
+OBR|1||20050613136001^Labosys||||200506130903||||||""|||20022^A.Th. Alberda ||||200506130903||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||1.6|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||17.6|10\S\6/ml| - 13|H|||F
+
+OBX|3|ST|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||6.3|10\S\6/ml| - 13|""|||F
+
+OBX|4|FT|809^Concentratie na opw^L^CONNXSM^CONNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|5|FT|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|6|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\viscositeit verhoogd.|""|""|""|||F
+
+OBR|1||20061002400598^Labosys||||200610021253||||||""|||20250^L.H.M. de Vleeschouwer ||||200610021253||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||2.9|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||<0.5|10\S\6/ml| - 13|""|||F
+
+OBX|3|ST|810^Concentratie voor opw^L^CONVXSM^CONVXSM||30.4|10\S\6/ml|""|""|||F
+
+OBX|4|ST|811^Beweeglijkheid voor opw.^L^BEWVXSM^BEWVXSM||11.8|10\S\6/ml|""|""|||F
+
+OBX|5|FT|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||\.br\Niet van toepassing|10\S\6/ml| - 13|""|||F
+
+OBX|6|ST|809^Concentratie na opw^L^CONNXSM^CONNXSM||5.8|10\S\6/ml|""|""|||F
+
+OBX|7|ST|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||4.2|10\S\6/ml|""|""|||F
+
+OBX|8|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\Voor opwerken semen visceus; Voor opwerken enkele rondcellen|""|""|""|||F
+
+OBR|1||20050613136001^Labosys||||200506130903||||||""|||20022^A.Th. Alberda ||||200506130903||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||1.6|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||17.6|10\S\6/ml| - 13|H|||F
+
+OBX|3|ST|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||6.3|10\S\6/ml| - 13|""|||F
+
+OBX|4|FT|809^Concentratie na opw^L^CONNXSM^CONNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|5|FT|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||\.br\Niet van toepassing|10\S\6/ml|""|""|||F
+
+OBX|6|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\viscositeit verhoogd.|""|""|""|||F
+
+OBR|1||20061002400598^Labosys||||200610021253||||||""|||20250^L.H.M. de Vleeschouwer ||||200610021253||200706121411||R|F||^^^^^R
+
+OBX|1|ST|814^Hoeveelheid^L^HOEVXSM^HOEVXSM||2.9|ml|>2 ml|""|||F
+
+OBX|2|ST|813^FSC voor opwerken^L^FSCVXSM^FSCVXSM||<0.5|10\S\6/ml| - 13|""|||F
+
+OBX|3|ST|810^Concentratie voor opw^L^CONVXSM^CONVXSM||30.4|10\S\6/ml|""|""|||F
+
+OBX|4|ST|811^Beweeglijkheid voor opw.^L^BEWVXSM^BEWVXSM||11.8|10\S\6/ml|""|""|||F
+
+OBX|5|FT|812^FSC na opwerken^L^FSCNXSM^FSCNXSM||\.br\Niet van toepassing|10\S\6/ml| - 13|""|||F
+
+OBX|6|ST|809^Concentratie na opw^L^CONNXSM^CONNXSM||5.8|10\S\6/ml|""|""|||F
+
+OBX|7|ST|808^Beweeglijkheid na opw^L^BEWNXSM^BEWNXSM||4.2|10\S\6/ml|""|""|||F
+
+OBX|8|FT|815^Opmerkingen^L^OPMOXSM^OPMOXSM||\.br\Voor opwerken semen visceus; Voor opwerken enkele rondcellen|""|""|""|||F
+
+
+
+
+
+
+
